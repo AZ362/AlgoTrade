@@ -1,13 +1,14 @@
 ####################################################################################
 ## MT5 login setting
-login = 995636
-password ='VlDOsSy5'
-server = 'VantageInternational-Demo'
-path= 'C:/Program Files/Vantage International MT5/terminal64.exe'
+### update your MT5 login settings with the provided credentials and server details
+login = 
+password =''
+server = ''          #'VantageInternational-Demo'
+path= ''             #'C:/Program Files/Vantage International MT5/terminal64.exe'
 ####################################################################################
 
 symbol= "XAUUSD"
-interval= "1 min"
+interval= "1 h"
 days_back= 7*365
 
 
